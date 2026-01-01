@@ -1,16 +1,16 @@
-Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitim vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. 
+Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitim vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/%20RcKPEFaSvtv6N676) kurucusudur. 
 __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
 
 
 [Accenture](https://www.accenture.com/us-en),
-[Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
+[Akbank](https://www.akbank.com), 
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
 [Ankasis](http://www.ankasis.com/),
 [Arçelik](https://www.arcelik.com.tr/), 
 [Argesim](https://www.argesim.com.tr/),
 [Armelsan](https://www.armelsan.com/),
-[Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), 
+[Aselsan](https://www.aselsan.com.tr), 
 [Asis Elektronik](https://asiselektronik.com.tr/),
 [Asis Guard](https://www.asisguard.com.tr/),
 [Audio Elektronik](https://www.audio.com.tr/), 
@@ -18,7 +18,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Ayoff Teknoloji](https://ayoff.com.tr/),
 [Baykar Savunma](https://www.baykarsavunma.com/),
 [Beko](https://www.beko.com.tr/), 
-[Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), 
+[Belbim A.Ş](https://www.belbim.istanbul/), 
 [Bites](https://www.bites.com.tr/),
 [BMC](https://www.bmc.com.tr/),
 [BSH](https://www.bsh-group.com/tr/), 
@@ -28,7 +28,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Daiichi](https://www.daiichi.com/tr/ana-sayfa/),
 [E-data Teknoloji](https://e-data.com.tr/),
 [EEC Electronics](https://eecelectronics.com.tr/),
-[Ellamp Otomotiv](https://www.ellamp.it/en/),
+[Ellamp Otomotiv](https://www.linkedin.com/company/ellampotomotiv),
 [Entes Elektronik](http://entes.com/tr/), 
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
@@ -41,17 +41,17 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Huawei](https://www.huawei.com/tr/), 
 [Hugin](http://hugin.com.tr/tr/home), 
 [ICterra](https://www.icterra.com/tr/),
-[Ingame Group](https://www.ingamegroup.com/),
-[İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), 
+[Ingame Group](https://www.linkedin.com/company/ingame-group/),
+[İsbak A.Ş.](https://www.isbak.istanbul/), 
 [İsdemir](https://www.isdemir.com.tr/), 
 [İspark](https://ispark.istanbul/), 
 [Katon Elektronik](http://www.katonelektronik.com/),
-[Katron](http://katron.com.tr/), 
+[Katron](http://katron.com.tr/turkce/), 
 [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), 
 [Luna Eelektronik](https://lunatr.com/),
 [Mamur Teknoloji](http://www.mamurtech.com/), 
 [Milsoft](https://www.milsoft.com.tr/),
-[Netaş](http://www.netas.com.tr/ana-sayfa/), 
+[Netaş](http://www.netas.com.tr), 
 [Nettsi Teknoloji](https://www.nettsi.com/),
 [Otokar](https://www.otokar.com.tr/),
 [Pacemtech](https://www.pacemtech.com/),
@@ -67,7 +67,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Sunny Elektronik](https://www.sunny.com.tr/), 
 [TEB](https://www.teb.com.tr/), 
 [Techne Logos](https://www.tekhnelogos.com/),
-[THY Teknik](https://turkishtechnic.com/Home/TR), 
+[THY Teknik](https://turkishtechnic.com/), 
 [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/),
 [Tradeware Teknoloji A.Ş.](https://www.tradewaretech.com/who-we-are/),
 [Triodor Software](http://triodorarge.com/), 
@@ -75,6 +75,6 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Turkcell](https://www.turkcell.com.tr/), 
 [Tübitak](https://www.tubitak.gov.tr/), 
 [Türkiye İs Bankası](https://www.isbank.com.tr), 
-[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) 
+[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/) 
 
 Necati Ergin aynı zamanda yurt içi ve yurt dışı kurumlara _"code review_" ve danışmanlık hizmetleri vermektedir.

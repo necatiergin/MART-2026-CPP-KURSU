@@ -2,7 +2,7 @@
 Eğitim boyunca C++’ın üç temel programlama paradigmasındaki kullanımı — nesne yönelimli programlama _(OOP)_, 
 türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming)_ — kapsamlı ve uygulamalı olarak ele alınmaktadır.
 
-👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
+👨 [Kurs eğitmeni](https://github.com/necatiergin/MART-2026-CPP-KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
 📅 Başlangıç tarihi: **17 Mart 2026, Salı**
