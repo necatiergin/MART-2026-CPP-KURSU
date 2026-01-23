@@ -22,7 +22,7 @@ Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
 Ücret 2 taksite bölünebilir.
 
 ✅ Kursta Modern C++ anlatılmaktadır.<br>
-C++11, C++14, C++17 ve C++20 standartlarıyla dile eklenen tüm sözdizimi yenilikleri, araçlar ve standart kütüphane bileşenleri detaylı bir şekilde öğretilmektedir.
+C++11, C++14, C++17 ve C++20 standartlarıyla dile eklenen sözdizimi yenilikleri, araçlar, idiyomlar, teknikler ve standart kütüphane bileşenleri detaylı bir şekilde öğretilmektedir.
 C++’ın kalbini oluşturan STL _(Standard Template Library)_ kapsamlı olarak işlenmekte, kurs boyunca yüzlerce C++ kodu yazılarak edinilen bilgiler uygulamaya dökülmektedir.
 
 ⚠️ Bu kurs, C++’ın C dilinden miras aldığı temel sözdizimi ve standart kütüphane yapısını kapsamamaktadır.
