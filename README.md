@@ -36,6 +36,5 @@ Eğer seviyenizin programa uygun olup olmadığından emin değilseniz, **Necati
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/XA3gjARiQx2D5SqG9quKPA)
 
-<!---
-![kurs tanıtım görseli](https://github.com/necatiergin/KASIM-2025-CPP-KURSU/blob/main/cpp_kursu_tanitim_gorseli.png)
---->
+![kurs tanıtım görseli](https://github.com/necatiergin/MART-2026-CPP-KURSU/blob/main/kurs_gorseli.png)
+
