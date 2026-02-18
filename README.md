@@ -22,7 +22,7 @@ Her hafta **Salı, Perşembe ve Cuma** günleri, _19:30 – 22:30_ saatleri aras
 
 💻 Dersler **online ve canlı olarak Zoom platformu** üzerinden yürütülmektedir.
 Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel **Telegram** grubu üzerinden de sorularını iletebilirler.
-Kaçırılan veya tekrar izlenmek istenen ders kayıtları, kurs sistemimiz üzerinden öğrencilere sunulmaktadır.
+**Kaçırılan veya tekrar izlenmek istenen ders kayıtları, kurs sistemimiz üzerinden öğrencilere sunulmaktadır.**
 
 💰 Ücretlendirme:<br>
 Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
