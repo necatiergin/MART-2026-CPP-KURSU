@@ -1,4 +1,4 @@
-#### Bu kurs kimler için?
+#### Bu eğitim kimler için?
 ✅ İş yerinde C++ kullanan veya kullanacak yazılım mühendisleri<br>
 ✅ Modern C++’ı derinlemesine öğrenmek isteyen geliştiriciler<br>
 ✅ STL ve generic programming konularında güçlü olmak isteyenler<br>
