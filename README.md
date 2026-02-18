@@ -1,3 +1,11 @@
+**Bu kurs kimler için?**
+✅ İş yerinde C++ kullanan veya kullanacak yazılım mühendisleri
+✅ Modern C++’ı derinlemesine öğrenmek isteyen geliştiriciler
+✅ STL ve generic programming konularında güçlü olmak isteyenler
+✅ Performans, concurrency ve sistem seviyesinde yazılım geliştirmek isteyenler
+✅ Teknik mülakatlarda fark yaratmak isteyen adaylar
+✅ C bilgisi olan ve C++’ta profesyonelleşmek isteyenler
+
 ✅ Bu kurs, katılımcıların C++ programlama dilini yalnızca öğrenmelerini değil, aynı zamanda profesyonel düzeyde kullanabilmelerini sağlayacak sağlam bir teknik altyapı kazanmalarını hedeflemektedir.
 Eğitim boyunca C++’ın üç temel programlama paradigmasındaki kullanımı — nesne yönelimli programlama _(OOP)_, 
 türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming)_ — kapsamlı ve uygulamalı olarak ele alınmaktadır.
