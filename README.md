@@ -6,7 +6,7 @@
 ✅ Teknik mülakatlarda fark yaratmak isteyen adaylar<br>
 ✅ C bilgisi olan ve C++’ta profesyonelleşmek isteyenler<br>
 
-✅ Bu kurs, katılımcıların C++ programlama dilini yalnızca öğrenmelerini değil, aynı zamanda profesyonel düzeyde kullanabilmelerini sağlayacak sağlam bir teknik altyapı kazanmalarını hedeflemektedir.
+✅ Bu eğitim, katılımcıların C++ programlama dilini yalnızca öğrenmelerini değil, aynı zamanda profesyonel düzeyde kullanabilmelerini sağlayacak sağlam bir teknik altyapı kazanmalarını hedeflemektedir.
 Eğitim boyunca C++’ın üç temel programlama paradigmasındaki kullanımı — nesne yönelimli programlama _(OOP)_, 
 türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming)_ — kapsamlı ve uygulamalı olarak ele alınmaktadır.
 
@@ -29,20 +29,20 @@ Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
 Öğrenci indirimi: **40.000 TL → Peşin ödemede 35.000 TL**<br>
 Ücret 2 taksite bölünebilir.
 
-✅ Kursta Modern C++ anlatılmaktadır.<br>
+✅ Eğitimde Modern C++ anlatılmaktadır.<br>
 C++11, C++14, C++17 ve C++20 standartlarıyla dile eklenen sözdizimi yenilikleri, araçlar, idiyomlar, teknikler ve standart kütüphane bileşenleri detaylı bir şekilde öğretilmektedir.
 C++’ın kalbini oluşturan STL _(Standard Template Library)_ kapsamlı olarak işlenmekte, kurs boyunca yüzlerce C++ kodu yazılarak edinilen bilgiler uygulamaya dökülmektedir.
 
-⚠️ Bu kurs, C++’ın C dilinden miras aldığı temel sözdizimi ve standart kütüphane yapısını kapsamamaktadır.
+⚠️ Bu eğitim, C++’ın C dilinden miras aldığı temel sözdizimi ve standart kütüphane yapısını kapsamamaktadır.
 Katılımcıların temel düzeyde C bilgisine sahip oldukları varsayılmaktadır.
 Eğer seviyenizin programa uygun olup olmadığından emin değilseniz, **Necati Ergin** ile iletişime geçerek kısa bir değerlendirme alabilirsiniz.
 
 ✅ Eğitim **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
-## Kursla ilgili bağlantılar:
+## Eğitimle ilgili bağlantılar:
 
-&#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
-&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/XA3gjARiQx2D5SqG9quKPA)
+&#128279; [Eğitim İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
+&#128279; [Eğitime kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/XA3gjARiQx2D5SqG9quKPA)
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/MART-2026-CPP-KURSU/blob/main/kurs_gorseli.png)
 
